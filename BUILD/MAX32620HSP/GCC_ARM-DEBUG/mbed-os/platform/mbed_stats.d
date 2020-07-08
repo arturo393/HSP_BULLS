@@ -1,0 +1,6 @@
+BUILD/MAX32620HSP/GCC_ARM-DEBUG/mbed-os/platform/mbed_stats.o: \
+ mbed-os/platform/mbed_stats.c \
+ BUILD/MAX32620HSP/GCC_ARM-DEBUG/mbed_config.h \
+ mbed-os/platform/mbed_stats.h mbed-os/platform/mbed_assert.h \
+ mbed-os/platform/mbed_preprocessor.h \
+ mbed-os/rtos/TARGET_CORTEX/rtx5/Include/cmsis_os2.h

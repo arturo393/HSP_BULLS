@@ -1,0 +1,208 @@
+[
+    {
+        "module": "HSP/Devices",
+        "size": {
+            ".text": 27381,
+            ".data": 4,
+            ".bss": 452
+        }
+    },
+    {
+        "module": "HSP/Hsp_BLE",
+        "size": {
+            ".text": 7410,
+            ".data": 134,
+            ".bss": 4
+        }
+    },
+    {
+        "module": "HSP/Interfaces",
+        "size": {
+            ".text": 656,
+            ".data": 0,
+            ".bss": 0
+        }
+    },
+    {
+        "module": "HSP/LoggingService",
+        "size": {
+            ".text": 5416,
+            ".data": 4,
+            ".bss": 4734
+        }
+    },
+    {
+        "module": "HSP/QuadSPI",
+        "size": {
+            ".text": 372,
+            ".data": 0,
+            ".bss": 0
+        }
+    },
+    {
+        "module": "HSP/RpcServer",
+        "size": {
+            ".text": 5289,
+            ".data": 1256,
+            ".bss": 51419
+        }
+    },
+    {
+        "module": "HSP/System",
+        "size": {
+            ".text": 92,
+            ".data": 0,
+            ".bss": 60
+        }
+    },
+    {
+        "module": "HSP/Test",
+        "size": {
+            ".text": 3960,
+            ".data": 0,
+            ".bss": 40
+        }
+    },
+    {
+        "module": "HSP/main.o",
+        "size": {
+            ".text": 3236,
+            ".data": 4,
+            ".bss": 3164
+        }
+    },
+    {
+        "module": "USBDevice/USBAudio",
+        "size": {
+            ".text": 515,
+            ".data": 0,
+            ".bss": 0
+        }
+    },
+    {
+        "module": "USBDevice/USBDevice",
+        "size": {
+            ".text": 7084,
+            ".data": 98,
+            ".bss": 667
+        }
+    },
+    {
+        "module": "USBDevice/USBHID",
+        "size": {
+            ".text": 162,
+            ".data": 0,
+            ".bss": 0
+        }
+    },
+    {
+        "module": "USBDevice/USBSerial",
+        "size": {
+            ".text": 2144,
+            ".data": 130,
+            ".bss": 4
+        }
+    },
+    {
+        "module": "[fill]",
+        "size": {
+            ".text": 407,
+            ".data": 26,
+            ".bss": 859
+        }
+    },
+    {
+        "module": "[lib]/c.a",
+        "size": {
+            ".text": 52588,
+            ".data": 2474,
+            ".bss": 89
+        }
+    },
+    {
+        "module": "[lib]/exactLE.a",
+        "size": {
+            ".text": 23641,
+            ".data": 124,
+            ".bss": 703
+        }
+    },
+    {
+        "module": "[lib]/gcc.a",
+        "size": {
+            ".text": 3500,
+            ".data": 0,
+            ".bss": 0
+        }
+    },
+    {
+        "module": "[lib]/misc",
+        "size": {
+            ".text": 216,
+            ".data": 12,
+            ".bss": 28
+        }
+    },
+    {
+        "module": "[lib]/nosys.a",
+        "size": {
+            ".text": 32,
+            ".data": 0,
+            ".bss": 0
+        }
+    },
+    {
+        "module": "mbed-os/drivers",
+        "size": {
+            ".text": 4593,
+            ".data": 0,
+            ".bss": 88
+        }
+    },
+    {
+        "module": "mbed-os/features",
+        "size": {
+            ".text": 21036,
+            ".data": 34,
+            ".bss": 2178
+        }
+    },
+    {
+        "module": "mbed-os/hal",
+        "size": {
+            ".text": 3555,
+            ".data": 8,
+            ".bss": 132
+        }
+    },
+    {
+        "module": "mbed-os/platform",
+        "size": {
+            ".text": 7756,
+            ".data": 260,
+            ".bss": 233
+        }
+    },
+    {
+        "module": "mbed-os/rtos",
+        "size": {
+            ".text": 17583,
+            ".data": 168,
+            ".bss": 6073
+        }
+    },
+    {
+        "module": "mbed-os/targets",
+        "size": {
+            ".text": 16083,
+            ".data": 660,
+            ".bss": 553
+        }
+    },
+    {
+        "summary": {
+            "static_ram": 76876,
+            "total_flash": 220103
+        }
+    }
+]

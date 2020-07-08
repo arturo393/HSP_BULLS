@@ -1,0 +1,3 @@
+BUILD/MAX32620HSP/GCC_ARM-DEBUG/mbed-os/targets/TARGET_Maxim/TARGET_MAX32620/device/TOOLCHAIN_GCC_ARM/startup_max32620.o: \
+ mbed-os/targets/TARGET_Maxim/TARGET_MAX32620/device/TOOLCHAIN_GCC_ARM/startup_max32620.S \
+ BUILD/MAX32620HSP/GCC_ARM-DEBUG/mbed_config.h
